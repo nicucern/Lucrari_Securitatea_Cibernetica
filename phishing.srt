@@ -1,0 +1,195 @@
+﻿<font color='black'> </font>
+	1
+00:00:00,310 --> 00:00:02,920
+ [Muzică] 
+
+2
+00:00:03,470 --> 00:00:09,389
+ cele mai multe lucruri pe care le găsiți pe web sunt 
+ bune și poate fi utile, dar la fel ca în 
+
+3
+00:00:09,389 --> 00:00:13,769
+ lumea offline , trebuie de asemenea să urmăriți
+ spentru bandiți ocazionali. în
+
+4
+00:00:13,769 --> 00:00:17,880
+ lumea offline dacă un străin ți-a oferit 
+ niște bomboane știi bine că trebuie să le iei. 
+
+5
+00:00:17,880 --> 00:00:23,880
+ același principiu se aplică on-line dacă 
+ cineva îți oferă un cupon de discount, cer 
+
+6
+00:00:23,880 --> 00:00:27,900
+ să faceți un studiu pentru a câștiga un cont gratuit 
+ smartphone sau vă spune că dacă doriți să 
+
+7
+00:00:27,900 --> 00:00:31,740
+ călătoriți în Hawaii, ar trebui să fii suspicios 
+ în conținutul și intenția din spatele acestuia.
+
+8
+00:00:31,740 --> 00:00:36,510
+ ingineria socială este tehnică 
+ termen pentru conținutul care te minte, astfel 
+
+9
+00:00:36,510 --> 00:00:41,510
+ dezvăluind informații personale, precum
+ datele de conectare sau numărul de la cardurile de credit.
+
+10
+00:00:41,510 --> 00:00:47,940
+ Atacurile de inginerie socială se pot întâmpla 
+ prin anunțuri, prin e-mail sau pagini web. Unele atacuri 
+
+11
+00:00:47,940 --> 00:00:51,809
+ pot fi destul de ușor de văzut.Îți amintești de  
+ prințul bogat care a vrut să-ți transfere 
+
+12
+00:00:51,809 --> 00:00:56,460
+ milioane de dolari pe contul dvs., dar 
+ altele pot fi sofisticate și convingătoare.
+
+13
+00:00:56,460 --> 00:01:02,690
+ Să vorbim despre unii 
+ pașii care îi puteți lua pentru a evita escrocheriile online. 
+
+14
+00:01:02,690 --> 00:01:08,100
+ una dintre cele mai des întîlnite metode de a păcăli 
+ utilizatorii sunt prin e-mail. 
+
+15
+00:01:08,100 --> 00:01:12,260
+ mail-urile de tip ingineric social arată ca și cum ar fi 
+ dintr-o sursă inofensivă, dar nu sunt.
+
+16
+00:01:12,260 --> 00:01:16,530
+ De exemplu, un e-mail poate pretinde că este 
+ de la o bancă și care să spună că contul 
+
+17
+00:01:16,530 --> 00:01:20,460
+ bancar a fost compromis și tu 
+ trebuie să le trimiteți rapid parola, pentru 
+ a evita să aveți banii furați. 
+
+18
+00:01:23,340 --> 00:01:27,360
+ E important să memorați să nu trimiteți niciodată 
+ informații personale prin e-mail dacă nu 
+
+19
+00:01:27,360 --> 00:01:31,979
+ esti absolut sigur cui îi trimiți.
+ Atacatorii vor folosi fiecare 
+
+20
+00:01:31,979 --> 00:01:34,979
+ truc din carte pentru a te face să crezi 
+ că adresa din e-mail este 
+
+21
+00:01:34,979 --> 00:01:39,119
+ inofensivă.Falsificarea adresei de e-mail pentru a 
+ face să pară că e de la cineva cunoscut.
+
+22
+00:01:39,119 --> 00:01:44,189
+ Deci, nu răspundeți la 
+ mesaj dacă nu sunteți sigur cine este
+
+23
+00:01:44,189 --> 00:01:49,829
+ expeditorul și nu faceți clic pe link-uri în 
+ e - mailul.În schimb deschide o fereastră nouă și 
+
+24
+00:01:49,829 --> 00:01:53,759
+ intră pe site-ul oficial al băncii 
+ sau compania în cauză și găsiți 
+
+25
+00:01:53,759 --> 00:01:58,070
+ adresa de contact.
+ ingineria socială se poate întâmpla și atunci când 
+
+26
+00:01:58,070 --> 00:02:02,540
+ veți vizita o pagină de web. Hoții vor 
+ crea 
+
+27
+00:02:02,540 --> 00:02:07,430
+ site-uri care arată asemănătoare cu site-urile care le 
+ folosiți deja.Din această cauză când vizitați 
+
+28
+00:02:07,430 --> 00:02:12,200
+ o pagină web trebuie să acordați o atenție deosebită la
+ adresa URL a paginilor, deoarece atacatorii vor deseori 
+ face ca această adresă URL să semene cu cea a URL-ului 
+
+29
+00:02:14,420 --> 00:02:19,790
+ site - ului autentic.Înainte de a introduce orice 
+ informații personale uitațivă la 
+
+30
+00:02:19,790 --> 00:02:24,740
+ adresa URL pentru a vă asigura că site-ul începe cu 
+ HTTPS și este precedat de o lăcată închisă. 
+
+31
+00:02:24,740 --> 00:02:32,780
+ Alte tipuri de escrocherii pot 
+ te păcălească să descărcați programe malware sau 
+
+32
+00:02:32,780 --> 00:02:36,230
+ aplicații software nedorite care pot afecta dispozitivul dvs. 
+ sau fura informații personale .
+
+33
+00:02:36,230 --> 00:02:43,040
+ Un site web sau un anunț nu poate
+ detecta dacă calculatorul dumneavoastră este compromis. Dacă 
+
+34
+00:02:43,040 --> 00:02:46,310
+ veți vedea un mesaj, în timp ce stați pe internet, spunând 
+ că computerul este infectat și 
+
+35
+00:02:46,310 --> 00:02:50,959
+ vă cere să descărcați o aplicație 
+ ar trebui să fiți suspicios. Amintiți-vă întotdeauna 
+
+36
+00:02:50,959 --> 00:02:55,209
+ să descărcați aplicații din surse cu 
+ o reputație bună. 
+
+37
+00:02:55,300 --> 00:02:59,900
+ Acum știi ce este inginerie socială, 
+ precum și pașii pe care îi puteți lua pentru a evita 
+
+38
+00:02:59,900 --> 00:03:05,269
+ înșelătorii online și tineți minte dacă ceva 
+ arată prea bine ca să fie adevărat , probabil că nu este 
+
+39
+00:03:05,269 --> 00:03:10,560
+ [Muzică] 

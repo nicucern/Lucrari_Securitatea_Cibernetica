@@ -1,0 +1,165 @@
+﻿1
+00:00:01,839 --> 00:00:06,759
+ spyware este un software care este conceput pentru a 
+ aduna date de pe dispozitivul dvs. 
+
+2
+00:00:06,759 --> 00:00:10,389
+ Acesta poate să comunice informații personale și 
+  confidențiale a unui utilizator care 
+
+3
+00:00:10,389 --> 00:00:14,889
+ are intenții rele. Atâta timp cât 
+ utilizezi un dispozitiv conectat la Internet 
+
+4
+00:00:14,889 --> 00:00:19,660
+ vă aflați în pericol de infectare cu spyware.
+ Hackerii pot trimite spyware pe dispozitivul dvs. 
+
+5
+00:00:19,660 --> 00:00:25,029
+ în multe moduri, dar aceste patru sunt cele mai întîlnite. 
+ în primul rând spyware-ul poate pătrunde 
+
+6
+00:00:25,029 --> 00:00:28,900
+ în dispozitivul dvs. sub forma unui troian, 
+ care este un tip de malware care este 
+
+7
+00:00:28,900 --> 00:00:33,489
+ deghizat ca un software inofensiv. Hackerii
+ utilizeaza troianul într-un proces mascat 
+
+8
+00:00:33,489 --> 00:00:37,660
+ numită inginerie socială, care este a 
+ metodă pentru ca utilizatorii să descarce și 
+
+9
+00:00:37,660 --> 00:00:42,820
+ să execute virusul. în al doilea rând spyware poate 
+ infecta dispozitivul atunci când interacționați 
+
+10
+00:00:42,820 --> 00:00:46,420
+ cu programe inofensive.
+ Acest tip de infecție spyware poate să
+
+11
+00:00:46,420 --> 00:00:50,880
+ se fie găsit pe trei tipuri de programe 
+ adware, pornware și riskware.
+
+12
+00:00:50,880 --> 00:00:55,930
+ în special hackerii pot exploata utilizatorul 
+ cu ajutorul reclamelor,conținutul material 
+
+13
+00:00:55,930 --> 00:01:00,340
+ pentru adulți și diverse
+ descărcări de programe pentru a avea acces la 
+
+14
+00:01:00,340 --> 00:01:06,579
+ dispozitive. în al treilea rând hackerii pot exploata și 
+ compromita urmărirea cookie-urilor, care este o 
+ practică des întîlnită pe numeroase site-uri inofensive folosesc.
+
+15
+00:01:08,829 --> 00:01:14,859
+ în cele din urmă, hackerii pot trimite 
+ spyware pe dispozitiv prin intermediul aplicațiilor de monitorizare sistemului 
+
+16
+00:01:14,859 --> 00:01:19,479
+ care sunt proiectate să monitorizeze 
+ activitatea computerului și performanța. 
+
+17
+00:01:19,479 --> 00:01:24,310
+ O dată ce spyware ajunge pe dispozitivul dvs. poate 
+ provoacă probleme. 
+
+18
+00:01:24,310 --> 00:01:27,579
+ Poate să comunice datele și informațiile personale 
+ și confidențiale către atacator 
+ cu informații valoroase, cum ar fi 
+
+19
+00:01:30,369 --> 00:01:34,479
+ parolele dvs. de e-mail,de conturile sociale,
+ de informații, despre cardurile de credit 
+
+20
+00:01:34,479 --> 00:01:39,460
+ și istoricul dvs. de cumpărături online. 
+ Identitatea ta online are un risc ridicat de a fi furată
+ 
+21
+00:01:39,460 --> 00:01:44,380
+ și imitată. Spyware-ul poate de asemenea 
+ să aibă o influență negativă auspra
+
+22
+00:01:44,380 --> 00:01:49,209
+ performanței. Vă poate absorbi resursele dispozitivului, 
+ care îl fac să ruleze lent,să se mute între aplicații 
+
+23
+00:01:49,209 --> 00:01:54,009
+ să se stîngă și să supraîncălzească. 
+ în plus, spyware-ul poate manipula 
+
+24
+00:01:54,009 --> 00:01:58,760
+ rezultatele căutării și să intre pe 
+ site-uri dăunătoare și virusuri periculoase, care 
+
+25
+00:01:58,760 --> 00:02:03,920
+ poate să-ți facă mai mult rău. 
+ Primul strat bun 
+
+26
+00:02:03,920 --> 00:02:08,270
+ de protecție este prevenirea prin
+ navigarea pe Internet sigură. Ca de exemplu să
+
+27
+00:02:08,270 --> 00:02:13,490
+ nu dai clic pe link-uri neașteptate din e-mailuri 
+ sau intrarea pe site-uri web suspecte.
+
+28
+00:02:13,490 --> 00:02:17,540
+ Dar totuși să nu descărcați un program și să nu dăți 
+ niciodată clic pe o atașare e-mail nu este 
+ întotdeauna o opțiune. în acest caz o soluție poate fi 
+
+29
+00:02:20,420 --> 00:02:23,060
+ o aplicație de securitate pe internet.
+
+30
+00:02:23,060 --> 00:02:28,400
+ Acesta va oferi detectarea din timp și 
+ protecție suplimentară. Adițional, pentru 
+
+31
+00:02:28,400 --> 00:02:32,600
+ acei utilizatori care sunt deja infectați 
+ de spyware există
+
+32
+00:02:32,600 --> 00:02:37,290
+ instrumente de deplasare care vă vor ajuta la
+ identificarea și eliminarea acestora 
+
+33
+00:02:37,290 --> 00:02:43,229
+ [Muzică] 
